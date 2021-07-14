@@ -1,0 +1,1 @@
+To realize such infrastructure on first stage we create VPC, subnet and key pair for our future instances.
